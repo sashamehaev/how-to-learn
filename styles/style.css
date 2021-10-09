@@ -62,15 +62,6 @@
   flex-direction: row;
 }
 
-/* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
-.header__square-pic {
-  height: 568px;
-  width: 568px;
-}
-
-/* и элемента с модификатором вида ключ-значение */
-
-
 .logo {
   width:183px;
   height: 32px;
@@ -322,16 +313,16 @@
 }
 
 .footer__column_content_copyright {
-  flex-basis: 711px;;
+  flex-basis:711px;
   display:flex;
-  flex-direction: column;
-  justify-content: space-between;
+  flex-direction:column;
+  justify-content:space-between;
 }
 
 .logo_place_footer {
   background-image: url(../images/logo_place_footer.svg);
   width:183px;
-  height: 35px;
+  height:35px;
 }
 
 .footer__author {
