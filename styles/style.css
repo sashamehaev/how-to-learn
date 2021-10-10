@@ -15,6 +15,7 @@
   max-height: 756px;
   display: flex;
   background-color: #f2f2f2;
+  position: relative;
   /* выше установили ограничения для секции */
 }
 
@@ -262,6 +263,7 @@
   line-height: 1.15;
   font-size: 60px;
   font-weight: bold;
+  z-index:1;
 }
 
 .section-subtitle_theme_dark {
@@ -304,7 +306,6 @@
   background-image: url(../images/kaufman-triangle.svg);
   background-position:center;
   background-size: cover;
-  alt: 'ошибка';
   z-index:0;
 }
 
