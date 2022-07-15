@@ -4,11 +4,11 @@
 * Одностраничный сайт о том, как можно учиться эффективно.
 
 **Стек технологий**
-* HTML
 * Display flex
-* CSS
 * БЭМ
 * Анимации и трансформации
+* CSS
+* HTML
 
 **Ссылка на макет**
 * https://code.s3.yandex.net/web-developer/project-1/sprint-1-brief.pdf
